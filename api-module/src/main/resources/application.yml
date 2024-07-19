@@ -1,0 +1,8 @@
+#Fri Jul 19 17:48:00 UTC 2024
+# micronaut:
+
+micronaut:
+  application:
+    name: api-module
+  server:
+    port: 8080
